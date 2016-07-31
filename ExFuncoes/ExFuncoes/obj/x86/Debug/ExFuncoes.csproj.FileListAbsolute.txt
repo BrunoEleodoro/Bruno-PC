@@ -1,0 +1,9 @@
+I:\ETEC\PC\ExFuncoes\ExFuncoes\bin\Debug\ExFuncoes.exe
+I:\ETEC\PC\ExFuncoes\ExFuncoes\bin\Debug\ExFuncoes.pdb
+I:\ETEC\PC\ExFuncoes\ExFuncoes\obj\x86\Debug\ExFuncoes.Form1.resources
+I:\ETEC\PC\ExFuncoes\ExFuncoes\obj\x86\Debug\ExFuncoes.Properties.Resources.resources
+I:\ETEC\PC\ExFuncoes\ExFuncoes\obj\x86\Debug\ExFuncoes.csproj.GenerateResource.Cache
+I:\ETEC\PC\ExFuncoes\ExFuncoes\obj\x86\Debug\ExFuncoes.exe
+I:\ETEC\PC\ExFuncoes\ExFuncoes\obj\x86\Debug\ExFuncoes.pdb
+E:\ETEC\PC\ExFuncoes\ExFuncoes\obj\x86\Debug\ExFuncoes.exe
+E:\ETEC\PC\ExFuncoes\ExFuncoes\obj\x86\Debug\ExFuncoes.pdb
